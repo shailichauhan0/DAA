@@ -1,0 +1,4 @@
+Enter sequence 1: abcdefghi
+Enter sequence 2: cdgi
+Longest Common Subsequence: cdgi
+Length of LCS: 4

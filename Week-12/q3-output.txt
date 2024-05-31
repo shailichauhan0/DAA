@@ -1,0 +1,8 @@
+Enter a string: CAB
+All permutations in lexicographic order:
+ABC
+ACB
+BAC
+BCA
+CAB
+CBA
