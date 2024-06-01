@@ -1,0 +1,12 @@
+Enter the size of the character array: 20
+Enter the elements of the character array: a e d e f j t t z a z f t a e e k a e q
+Distinct characters in alphabetical order:
+a (4)
+d (1)
+e (5)
+f (2)
+j (1)
+k (1)
+q (1)
+t (3)
+z (2)

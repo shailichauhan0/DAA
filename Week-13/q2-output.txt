@@ -1,0 +1,9 @@
+Enter the number of test cases: 2
+Enter the size of the array: 10
+Enter the elements of the array: 1 2 3 4 1 2 3 4 1 2
+Enter the window size k: 3
+Duplicate present in window k
+Enter the size of the array: 10
+Enter the elements of the array: 1 2 3 4 1 2 3 4 1 2
+Enter the window size k: 3
+Duplicate present in window k
