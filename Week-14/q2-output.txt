@@ -1,0 +1,13 @@
+Enter the number of vertices in the graph: 6
+Enter the adjacency list for each vertex:
+Enter the number of neighbors for vertex 0: 2
+Enter the neighbors of vertex 0: 34
+Enter the number of neighbors for vertex 1: 1
+Enter the neighbors of vertex 1: 5
+Enter the number of neighbors for vertex 2: 0
+Enter the neighbors of vertex 2: Enter the number of neighbors for vertex 3: 1
+Enter the neighbors of vertex 3: 1
+Enter the number of neighbors for vertex 4: 2
+Enter the neighbors of vertex 4: 25
+Enter the number of neighbors for vertex 5: 0
+Enter the neighbors of vertex 5: The mother vertex in the graph is: 0

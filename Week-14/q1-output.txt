@@ -1,0 +1,7 @@
+Enter the number of test cases: 3
+Enter the value of n for test case 1: 11
+The 11th ugly number is: 15
+Enter the value of n for test case 2: 8
+The 8th ugly number is: 8
+Enter the value of n for test case 3: 15
+The 15th ugly number is: 24
